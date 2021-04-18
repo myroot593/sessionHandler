@@ -76,7 +76,7 @@
  | Refrensi : 
  | https://www.php.net/manual/en/class.sessionhandler.php
  | https://www.php.net/manual/en/class.sessionhandlerinterface.php
- | https://www.php.net/manual/en/class.sessionhandlerinterface.php
+ | https://www.php.net/manual/en/function.session-set-save-handler.php
   
  
 */
